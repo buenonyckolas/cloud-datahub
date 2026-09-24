@@ -346,6 +346,8 @@
     <extension name='sapcpiorderexchangeoms' />
     <extension name='sapcpiorderexchangeomsb2b' />
     <extension name='ysapcpiomsfulfillment' />
+    <extension name='datahubadapter' />
+    <extension name='datahubclient' />
     <extension name='cxaiocc' />
     <extension name='cxaibackoffice' />
     <extension name='cxaiaskproductocc' />
