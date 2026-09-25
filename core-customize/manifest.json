@@ -6,7 +6,7 @@
 	 {
            "name": "hybris-commerce-integrations",
            "version": "2211-jdk21.15"
-    	}
+    	},
 	 {
             "name": "hybris-datahub-integration-suite",
             "version": "2211-jdk21.15"
