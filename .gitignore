@@ -39,6 +39,7 @@ eclipsebin
 **/hybris/temp/
 **/hybris/data/
 **/hybris/config/orbeon
+**/datahub/config
 
 # Filename patterns to ignore
 *.class
