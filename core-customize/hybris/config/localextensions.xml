@@ -348,6 +348,7 @@
     <extension name='ysapcpiomsfulfillment' />
     <extension name='datahubadapter' />
     <extension name='datahubclient' />
+    <extension name='datahubbackoffice' />
     <extension name='cxaiocc' />
     <extension name='cxaibackoffice' />
     <extension name='cxaiaskproductocc' />
